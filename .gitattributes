@@ -1,0 +1,3 @@
+# Exclude TensorFlow SavedModel protobuf from language stats
+*.pb linguist-detectable=false
+*.pbi linguist-detectable=false
